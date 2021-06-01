@@ -93,7 +93,7 @@ namespace TCBMCurrencyRates
             string[] hm = DateTime.Now.ToString("HH:mm").Split(':');
             return ((DateTime.Today.CompareTo(Convert.ToDateTime(currencies.Tarih)) != 0 && (Convert.ToInt32(hm[0]) >= 15 && Convert.ToInt32(hm[1]) > 30))
                            && (DateTime.Now.Day != (int)DayOfWeek.Saturday)
-                           && (DateTime.Now.Day != (int)DayOfWeek.Saturday)
+                           && (DateTime.Now.Day != (int)DayOfWeek.Sunday) 
                            );
         }
 
