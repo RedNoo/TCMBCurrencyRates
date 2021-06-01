@@ -1,0 +1,7 @@
+C:\Users\onder\source\repos\TCMBER\XMLPlugin\obj\Debug\XMLPlugin.csprojAssemblyReference.cache
+C:\Users\onder\source\repos\TCMBER\XMLPlugin\obj\Debug\XMLPlugin.csproj.CoreCompileInputs.cache
+C:\Users\onder\source\repos\TCMBER\TCMBConsole\bin\Debug\Plugins\XMLPlugin.dll
+C:\Users\onder\source\repos\TCMBER\TCMBConsole\bin\Debug\Plugins\XMLPlugin.pdb
+C:\Users\onder\source\repos\TCMBER\XMLPlugin\obj\Debug\XMLPlugin.csproj.CopyComplete
+C:\Users\onder\source\repos\TCMBER\XMLPlugin\obj\Debug\XMLPlugin.dll
+C:\Users\onder\source\repos\TCMBER\XMLPlugin\obj\Debug\XMLPlugin.pdb

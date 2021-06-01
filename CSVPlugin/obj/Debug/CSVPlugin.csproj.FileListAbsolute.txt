@@ -1,0 +1,7 @@
+C:\Users\onder\source\repos\TCMBER\TCMBConsole\bin\Debug\Plugins\CSVPlugin.dll
+C:\Users\onder\source\repos\TCMBER\TCMBConsole\bin\Debug\Plugins\CSVPlugin.pdb
+C:\Users\onder\source\repos\TCMBER\CSVPlugin\obj\Debug\CSVPlugin.csprojAssemblyReference.cache
+C:\Users\onder\source\repos\TCMBER\CSVPlugin\obj\Debug\CSVPlugin.csproj.CoreCompileInputs.cache
+C:\Users\onder\source\repos\TCMBER\CSVPlugin\obj\Debug\CSVPlugin.csproj.CopyComplete
+C:\Users\onder\source\repos\TCMBER\CSVPlugin\obj\Debug\CSVPlugin.dll
+C:\Users\onder\source\repos\TCMBER\CSVPlugin\obj\Debug\CSVPlugin.pdb

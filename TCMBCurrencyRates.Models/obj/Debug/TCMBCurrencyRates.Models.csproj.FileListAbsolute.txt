@@ -1,0 +1,5 @@
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Models\bin\Debug\TCMBCurrencyRates.Models.dll
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Models\bin\Debug\TCMBCurrencyRates.Models.pdb
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Models\obj\Debug\TCMBCurrencyRates.Models.csproj.CoreCompileInputs.cache
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Models\obj\Debug\TCMBCurrencyRates.Models.dll
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Models\obj\Debug\TCMBCurrencyRates.Models.pdb

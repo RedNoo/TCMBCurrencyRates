@@ -1,0 +1,9 @@
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\bin\Release\TCMBCurrencyRates.Contracts.dll
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\bin\Release\TCMBCurrencyRates.Contracts.pdb
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\bin\Release\TCMBCurrencyRates.Models.dll
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\bin\Release\TCMBCurrencyRates.Models.pdb
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\obj\Release\TCMBCurrencyRates.Contracts.csprojAssemblyReference.cache
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\obj\Release\TCMBCurrencyRates.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\obj\Release\TCMBCurrencyRates.Contracts.csproj.CopyComplete
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\obj\Release\TCMBCurrencyRates.Contracts.dll
+C:\Users\onder\source\repos\TCMBER\TCMBCurrencyRates.Contracts\obj\Release\TCMBCurrencyRates.Contracts.pdb
